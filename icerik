@@ -1,0 +1,171 @@
+ <!--*********************************************************************************************************-->
+        <!--************ İÇERİK ************************************************************************************-->
+        <!--*********************************************************************************************************-->
+        <section class="content">
+            <!--============ Kategoriler =============================================================================-->
+            <section class="block">
+                <div class="container">
+                    <h2>Kategoriler</h2>
+                    <ul class="categories-list clearfix">
+                        <li>
+                            <i class="category-icon">
+                                <img src="assets/img/kitap.png" alt="">
+                            </i>
+                            <h3><a href="#">Roman</a></h3>
+                        </li>
+                        <!--Kategory nesnesi sonu-->
+                        <li>
+                            <i class="category-icon">
+                                <img src="assets/img/kitap.png" alt="">
+                            </i>
+                            <h3><a href="#">Söylev</a></h3>
+                        </li>
+                        <!--Kategory nesnesi sonu-->
+                        <li>
+                            <i class="category-icon">
+                                <img src="assets/img/kitap.png" alt="">
+                            </i>
+                            <h3><a href="#">Tiyatro</a></h3>
+                        </li>
+                      <!--Kategory nesnesi sonu-->
+                        <li>
+                            <i class="category-icon">
+                                <img src="assets/img/kitap.png" alt="">
+                            </i>
+                            <h3><a href="#">Hikaye</a></h3>
+                        </li>
+                        <!--Kategory nesnesi sonu-->
+
+                        <li>
+                            <i class="category-icon">
+                                <img src="assets/img/kitap.png" alt="">
+                            </i>
+                            <h3><a href="#">Şiir</a></h3>
+                        </li>
+                        <!--Kategory nesnesi sonu-->
+                        <li>
+                            <i class="category-icon">
+                                <img src="assets/img/kitap.png" alt="">
+                            </i>
+                            <h3><a href="#">Deneme</a></h3>
+                        </li>
+                        <!--Kategory nesnesi sonu-->
+                        <li>
+                            <i class="category-icon">
+                                <img src="assets/img/kitap.png" alt="">
+                            </i>
+                            <h3><a href="#">Gezi</a></h3>
+                        </li>
+                        <!--Kategory nesnesi sonu-->
+                        <li>
+                            <i class="category-icon">
+                                <img src="assets/img/kitap.png" alt="">
+                            </i>
+                            <h3><a href="#">Anı</a></h3>
+                        </li>
+                        <!--Kategory nesnesi sonu-->
+
+                        <li>
+                            <i class="category-icon">
+                                <img src="assets/img/kitap.png" alt="">
+                            </i>
+                            <h3><a href="#">Biyografi</a></h3>
+                        </li>
+                        <!--Kategory nesnesi sonu-->
+                        <li>
+                            <i class="category-icon">
+                                <img src="assets/img/kitap.png" alt="">
+                            </i>
+                            <h3><a href="#">Fıkra</a></h3>
+                        </li>
+                        <!--Kategory nesnesi sonu-->
+                        <li>
+                            <i class="category-icon">
+                                <img src="assets/img/kitap.png" alt="">
+                            </i>
+                            <h3><a href="#">Masal</a></h3>
+                        </li>
+                        <!--Kategory nesnesi sonu-->
+                        <li>
+                            <i class="category-icon">
+                                <img src="assets/img/kitap.png" alt="">
+                            </i>
+                            <h3><a href="#">Dünya Edebiyatı</a></h3>
+                        </li>
+                        <!--Kategory nesnesi sonu-->
+                        
+                        
+                    </ul>
+                    <!--Kategori listesi sonu-->
+                </div>
+                <!--Kapsayıscı-container- sonu-->
+            </section>
+            <!--end block-->
+            <!--============ Kategoriler sonu =========================================================================-->
+            <!--============ En Sevilen Kitaplar Bölümü =============================================================================-->
+            <section class="block">
+                <div class="container">
+                    <h2>En Sevilenler</h2>
+                    <div class="items grid grid-xl-4-items grid-lg-3-items grid-md-2-items">
+                        <div class="item">
+                            <div class="wrapper">
+                                <div class="image">
+                                    <a href="single-listing-1.html" class="image-wrapper background-image">
+                                        <img src="assets/img/mutluprens.jpg"  alt="">
+                                    </a>
+                                </div>
+                                <!--Resim sonu-->
+                                <div class="price">Mutlu Prens</div>
+                                <div class="meta">
+                                        <a href="#">
+                                            <i class="fa fa-user"></i> Oscar Wilde
+                                        </a>
+                                    </figure>
+                                </div>
+                                <!--Meta sonu-->
+                                <div class="description">
+                                    <p> Parıltı Yayıncılık , Çocuk Kitabı</p>
+                                </div>
+                               
+                               
+                                <a href="single-listing-1.html" class="detail text-caps underline">Detay</a>
+                            </div>
+                        </div>
+                        <!--Nesne sonu-->
+
+                        <div class="item">
+                            <div class="wrapper">
+                                <div class="image">
+                                    <a href="single-listing-1.html" class="image-wrapper background-image">
+                                        <img src="assets/img/atestengomlek.jpg" alt="">
+                                    </a>
+                                </div>
+                                <!--Resim sonu-->
+                                <div class="price">Ateşten Gömlek</div>
+                                <div class="meta">
+                                    <figure>
+                                        <a href="#">
+                                            <i class="fa fa-user"></i>Halide Edip Adıvar
+                                        </a>
+                                    </figure>
+                                </div>
+                                <!--Meta sonu-->
+                                <div class="description">
+                                    <p>Can Yayınları,Roman</p>
+                                </div>
+                                <!--Açıklama sonu-->
+                           
+                                <a href="single-listing-1.html" class="detail text-caps underline">Detay</a>
+                            </div>
+                        </div>
+                        <!--Nesne sonu-->
+                    </div>
+                </div>
+                <!--Kapsayıcı-container-sonu-->
+            </section>
+            <!--Blok sonu-->
+            
+           
+
+        </section>
+        <!--İçerik sonu-->
