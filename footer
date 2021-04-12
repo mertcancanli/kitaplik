@@ -1,0 +1,70 @@
+ <!--*********************************************************************************************************-->
+        <!--************ FOOTER *************************************************************************************-->
+        <!--*********************************************************************************************************-->
+        <footer class="footer">
+            <div class="wrapper">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <a href="#" class="brand">
+                                <img src="assets/img/logo.jpg" width="250"  height="100" alt="">
+                            </a>
+                            <p>
+                               Aradığın kitabı burada bulamazsan daha çıkmamıştır.
+                            </p>
+                        </div>
+                        <!--end col-md-5-->
+                        <div class="col-md-3">
+                            <h2>Menü</h2>
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6">
+                                    <nav>
+                                        <ul class="list-unstyled">
+                                            <li>
+                                                <a href="#">Anasayfa</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">Kitaplar</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">İletişim</a>
+                                            </li>
+
+                                        </ul>
+                                    </nav>
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <!--end col-md-3-->
+                        <div class="col-md-4">
+                            <h2>İletişim</h2>
+                            <address>
+                                <figure>
+                                    Pelitözü Mah. Fatih Sultan Mehmet Bulvarı<br>No:27 11230 Merkez/BİLECİK
+                                </figure>
+                                <br>
+                                <strong>Email:</strong> <a href="#">genelsekreterlik@bilecik.edu.tr</a>
+                                <br>
+                                <strong>Skype: </strong> kitaplık
+                                <br>
+                                <br>
+                                <a href="iletişim.html" class="btn btn-primary text-caps btn-framed">İLETİŞİME GEÇİN</a>
+                            </address>
+                        </div>
+                        <!--end col-md-4-->
+                    </div>
+                    <!--Satır sonu-->
+                </div>
+                <div class="background">
+                    <div class="background-image original-size">
+                        <img src="assets/img/footer-background.jpg" alt="">
+                    </div>
+                    <!--Arkaplan resim sonu-->
+                </div>
+                <!--Arkaplan sonu-->
+            </div>
+        </footer>
+        <!--Footer sonu-->
+    </div>
+    <!--Sayfa sonu-->
