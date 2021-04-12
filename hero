@@ -1,0 +1,60 @@
+<!--*********************************************************************************************************-->
+        <!--************ HERO ***************************************************************************************-->
+        <!--*********************************************************************************************************-->
+        <header class="hero">
+            <div class="hero-wrapper">
+    
+                <div class="main-navigation">
+                    <div class="container">
+                        <nav class="navbar navbar-expand-lg navbar-light justify-content-between">
+                            <a class="navbar-brand" href="index.html">
+                                <img src="assets/img/logo.jpg" width="250"  height="100" alt="">
+                            </a>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbar">
+                                <!--Main navigation listesi-->
+                                <ul class="navbar-nav">
+                                    <li >
+                                        <a class="nav-item active" href="anasayfa.html">Anasayfa</a>
+                                    </li>
+                                    <li >
+                                        <a class="nav-link" href="kitaplar.html">Kitaplar</a>
+                                    </li>
+                                    <li >
+                                        <a class="nav-link" href="iletişim.html">İletişim</a>
+                                    </li>
+                                </ul>
+                                <!--Main navigation listesi-->
+                            </div>
+                        </nav>
+                        <!--Navigation barı sonu-->
+
+                    </div>
+                    <!--Kapsayıcı-container- sonu-->
+                </div>
+                <!--============ Ana Navigasyon Sonu ================================================================-->
+                <!--============ Sayfa Başlığı =========================================================================-->
+                <div class="page-title">
+                    <div class="container">
+                        <h1 class="opacity-60 center">
+                            <a >Kitaplara uğrama noktanız...</a>
+                        </h1>
+                    </div>
+                    <!--Kapsayıcı-container- sonu-->
+                </div>
+                <!--============ Sayfa Başlığı Sonu =====================================================================-->
+                <!--============ Hero Formu ==========================================================================-->
+                
+                <div class="background">
+                    <div class="background-image">
+                        <img src="assets/img/background.jpg" alt="">
+                    </div>
+                    <!--Arkaplan resim sonu-->
+                </div>
+                <!--Arkaplan sonu-->
+            </div>
+            <!--Hero-wrapper sonu-->
+        </header>
+        <!--Hero sonu-->
